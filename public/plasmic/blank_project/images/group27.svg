@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 283 139">
+  <g filter="url(#OToimc_n1a)">
+    <path d="M0 .78C0 .35.35 0 .78 0h1.172v22.64H.78a.78.78 0 01-.78-.78V.78z" fill="url(#OToimc_n1b)"/>
+  </g>
+  <g filter="url(#OToimc_n1c)">
+    <path d="M0 41.766c0-.43.35-.78.78-.78h1.172v43.718H.78a.78.78 0 01-.781-.78V41.766z" fill="url(#OToimc_n1d)"/>
+  </g>
+  <g filter="url(#OToimc_n1e)">
+    <path d="M281.048 56.6h1.171a.78.78 0 01.781.78v66.359a.78.78 0 01-.781.781h-1.171V56.6z" fill="url(#OToimc_n1f)"/>
+  </g>
+  <g filter="url(#OToimc_n1g)">
+    <path d="M0 95.244c0-.43.35-.78.78-.78h1.172v43.718H.78a.78.78 0 01-.781-.781V95.244z" fill="url(#OToimc_n1h)"/>
+  </g>
+  <defs>
+    <linearGradient id="OToimc_n1b" x1="0" y1="11.125" x2="1.952" y2="11.125" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset=".333" stop-color="#D0D0D0" stop-opacity=".42"/>
+      <stop offset="1" stop-opacity=".24"/>
+    </linearGradient>
+    <linearGradient id="OToimc_n1d" x1="0" y1="62.468" x2="1.952" y2="62.468" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset=".333" stop-color="#D0D0D0" stop-opacity=".42"/>
+      <stop offset="1" stop-opacity=".24"/>
+    </linearGradient>
+    <linearGradient id="OToimc_n1f" x1="281.048" y1="89.974" x2="283" y2="89.974" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity=".24"/>
+      <stop offset=".574" stop-color="#D0D0D0" stop-opacity=".42"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="OToimc_n1h" x1="0" y1="115.946" x2="1.952" y2="115.946" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset=".333" stop-color="#D0D0D0" stop-opacity=".42"/>
+      <stop offset="1" stop-opacity=".24"/>
+    </linearGradient>
+    <filter id="OToimc_n1a" x="0" y="-1.902" width="1.952" height="26.445" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_110_1765"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="-3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="effect1_innerShadow_110_1765" result="effect2_innerShadow_110_1765"/>
+    </filter>
+    <filter id="OToimc_n1c" x="0" y="39.083" width="1.952" height="47.523" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_110_1765"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="-3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="effect1_innerShadow_110_1765" result="effect2_innerShadow_110_1765"/>
+    </filter>
+    <filter id="OToimc_n1e" x="281.048" y="54.697" width="1.952" height="71.725" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_110_1765"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="-3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="effect1_innerShadow_110_1765" result="effect2_innerShadow_110_1765"/>
+    </filter>
+    <filter id="OToimc_n1g" x="0" y="92.561" width="1.952" height="47.523" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_110_1765"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="-3.805"/>
+      <feGaussianBlur stdDeviation=".951"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.64 0"/>
+      <feBlend in2="effect1_innerShadow_110_1765" result="effect2_innerShadow_110_1765"/>
+    </filter>
+  </defs>
+</svg>
